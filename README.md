@@ -14,6 +14,7 @@ https://github.com/pem725/Daily.R.Dose.git
 Now, copy your PAT to the console and hit enter.  Make sure it works by editing the README.md file and then commit the changes and then push them to GitHub.
 
 SCM edits to the ReadMe here. Did I actually get it to work?!
+NOTE: Had to reset my PAT, will need to update the NRL stuff too. 
 
 
 ## Day 2 (10/28/21):  Create a new file and sync it.
