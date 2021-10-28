@@ -1,5 +1,5 @@
-# Daily.R.Dose
-Personal R with Simone and Patrick
+# Daily R Dose - A Year of Continuous R
+Personalizing R with Simone and Patrick
 
 ## Day 1 (10/27/21):  Github workflow.  
 
@@ -21,10 +21,26 @@ You do it and then paste your code below.
 
 <SCM, insert your code here>
 
-## Day 3 (10/29/21):
+## Day 3 (10/29/21): Open a new session and project...
 
-## Day 4 (10/30/21):
+We will have two projects going simultaneously AT ALL TIMES with this tutorial.  Open this project as the small one and then another as instructed.  I want you to open the [NRL project repo](https://github.com/pem725/NRL2021-MCINC.git) and, if you have not already done so, make sure you have it connected as you did on Day 1 (and 2).
 
-## Day 5 
+Just to be clear, you need the following URL to clone the repo to your local system:
 
+https://github.com/pem725/NRL2021-MCINC.git
 
+## Day 4 (10/30/21):  Browse the NRL and...
+
+...type what you edited here.  Commit the changes to your local repo and the GitHub repo and report the update to me via email.
+
+## Day 5 (10/31/21):  Create an NRL scratch sheet
+
+In programming, we typically have multiple files that serve as temporary files to help us sort out code before we merge it into the big project.  These files include the following:
+
+[Scratch file](https://www.collinsdictionary.com/us/dictionary/english/scratch-file)
+
+[Sandbox](https://searchsecurity.techtarget.com/definition/sandbox)
+
+Here, I want you to create an SCM scratch file that is clearly named and documented to be YOURS and nobody elses.  Why do you merge said file with the rest of the repo?  Usually so that you don't have to worry about losing your work.  Give it a go.  Create a scratch file for yourself, commit the changes to the repo and push the changes to the GitHub repo.
+
+## Day 6 (11/1/21):
