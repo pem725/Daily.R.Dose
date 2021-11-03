@@ -92,4 +92,38 @@ Copy and paste your working code to the R Markdown.  Write a few lines of text i
 
 <indicate you have finished the task here>
 
+## Day 12 (11/7/21):
+
+
+## Day 13 (11/8/21):
+
+
+## Day 14 (11/9/21):
+
+
+## Day 15 (11/10/21):
+
+
+## Day 16 (11/11/21):
+
+
+## Day 17 (11/12/21):
+
+
+## Day 18 (11/13/21):
+## Day 19 (11/14/21):
+## Day 20 (11/15/21):
+## Day 21 (11/16/21):
+## Day 22 (11/17/21):
+## Day 23 (11/18/21):
+## Day 24 (11/19/21):
+## Day 25 (11/20/21):
+## Day 26 (11/21/21):
+## Day 27 (11/22/21):
+## Day 28 (11/23/21):
+## Day 29 (11/24/21):
+## Day 30 (11/25/21):
+## Day 31 (11/26/21):
+## Day 32 (11/27/21):
+
 
